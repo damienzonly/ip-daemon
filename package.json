@@ -1,0 +1,14 @@
+{
+  "name": "ip-daemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/mailer.js",
+  "scripts": {
+    "start": "node src/mailer"
+  },
+  "author": "damiano di natale",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^5.1.1"
+  }
+}
