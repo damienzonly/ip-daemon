@@ -52,4 +52,4 @@ sudo bash install.sh
 
 The whole codebase will be installed in ```/opt/ip-daemon``` where you can also fin the log file specified in the ```configs.js```
 
-###### That's it! Now every time that one of your network cards
+###### That's it!
